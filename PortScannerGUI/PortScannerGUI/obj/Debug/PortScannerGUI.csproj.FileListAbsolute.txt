@@ -1,0 +1,10 @@
+C:\Users\пк\source\repos\PortScannerGUI\PortScannerGUI\bin\Debug\PortScannerGUI.exe.config
+C:\Users\пк\source\repos\PortScannerGUI\PortScannerGUI\bin\Debug\PortScannerGUI.exe
+C:\Users\пк\source\repos\PortScannerGUI\PortScannerGUI\bin\Debug\PortScannerGUI.pdb
+C:\Users\пк\source\repos\PortScannerGUI\PortScannerGUI\obj\Debug\PortScannerGUI.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\PortScannerGUI\PortScannerGUI\obj\Debug\PortScannerGUI.Form1.resources
+C:\Users\пк\source\repos\PortScannerGUI\PortScannerGUI\obj\Debug\PortScannerGUI.Properties.Resources.resources
+C:\Users\пк\source\repos\PortScannerGUI\PortScannerGUI\obj\Debug\PortScannerGUI.csproj.GenerateResource.cache
+C:\Users\пк\source\repos\PortScannerGUI\PortScannerGUI\obj\Debug\PortScannerGUI.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\PortScannerGUI\PortScannerGUI\obj\Debug\PortScannerGUI.exe
+C:\Users\пк\source\repos\PortScannerGUI\PortScannerGUI\obj\Debug\PortScannerGUI.pdb
